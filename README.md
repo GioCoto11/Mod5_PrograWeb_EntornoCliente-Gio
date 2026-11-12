@@ -87,7 +87,7 @@ CSTI12004-Nombre-Apellido/
         <tr>
             <td align="center">S03</td>
             <td>Entorno en el laboratorio y mi primer script</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">(Aprendí sobre códigos de escape y errores)</td>
             <td align="center"><a href="UNIDAD_1_javascript/CLASE_03_12-11-2026/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UNIDAD_1_javascript/CLASE_03_12-11-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
@@ -413,7 +413,6 @@ Archivo: [S01_Cuadro_comparativo_Nombre_Apellido.docx](UNIDAD_1_javascript/CLASE
 
 La diferencia más importante que encontré entre C y JavaScript:
 
-
 </details>
 
 <details>
@@ -422,22 +421,22 @@ La diferencia más importante que encontré entre C y JavaScript:
 Archivo: [pruebas/js/pruebas.js](UNIDAD_1_javascript/CLASE_02_11-11-2026/pruebas/js/pruebas.js)
 
 | Línea | Qué mostró la consola | Tipo | Corrección |
-|---|---|---|---|
-| 2 |  |  |  |
-| 3 |  |  |  |
-| 4 |  |  |  |
-| 5 |  |  |  |
-| 6 |  |  |  |
-| 7 |  |  |  |
+| ----- | --------------------- | ---- | ---------- |
+| 2     |                       |      |            |
+| 3     |                       |      |            |
+| 4     |                       |      |            |
+| 5     |                       |      |            |
+| 6     |                       |      |            |
+| 7     |                       |      |            |
 
 **Autoevaluación**
 
-| Indicador | Sí | Aún no |
-|---|---|---|
-| Copié Luz Clara en `luz-clara/` y Casa Tomillo en `casa-tomillo/`, y los abro con Live Server. | | |
-| Mi repositorio está en GitHub con el README. | | |
-| Distingo un error de sintaxis de uno de semántica. | | |
-| Uso `//` para aislar un error y seguir probando. | | |
+| Indicador                                                                                      | Sí  | Aún no |
+| ---------------------------------------------------------------------------------------------- | --- | ------ |
+| Copié Luz Clara en `luz-clara/` y Casa Tomillo en `casa-tomillo/`, y los abro con Live Server. |     |        |
+| Mi repositorio está en GitHub con el README.                                                   |     |        |
+| Distingo un error de sintaxis de uno de semántica.                                             |     |        |
+| Uso `//` para aislar un error y seguir probando.                                               |     |        |
 
 </details>
 
@@ -448,32 +447,32 @@ Archivos: [horario/js/horarios.js](UNIDAD_1_javascript/CLASE_03_12-11-2026/horar
 
 **Cacería de errores**
 
-| # | Mensaje de la consola | Archivo:línea | Corrección |
-|---|---|---|---|
-| 1 |  |  |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
-| 4 |  |  |  |
+| #   | Mensaje de la consola | Archivo:línea | Corrección |
+| --- | --------------------- | ------------- | ---------- |
+| 1   |                       |               |            |
+| 2   |                       |               |            |
+| 3   |                       |               |            |
+| 4   |                       |               |            |
 
 **Reto MVC**
 
 | Elemento | Componente | Justificación |
-|---|---|---|
-| 1 |  |  |
-| 2 |  |  |
-| 3 |  |  |
-| 4 |  |  |
-| 5 |  |  |
-| 6 |  |  |
+| -------- | ---------- | ------------- |
+| 1        |            |               |
+| 2        |            |               |
+| 3        |            |               |
+| 4        |            |               |
+| 5        |            |               |
+| 6        |            |               |
 
 **Autoevaluación**
 
-| Indicador | Sí | Aún no |
-|---|---|---|
-| Enlazo un archivo .js al final del body o en el head con defer. | | |
-| Uso comentarios de línea y de bloque. | | |
-| Uso \n, \t, \", \\ y \u en textos. | | |
-| Leo el tipo de error, el mensaje y la línea en la consola. | | |
+| Indicador                                                       | Sí  | Aún no |
+| --------------------------------------------------------------- | --- | ------ |
+| Enlazo un archivo .js al final del body o en el head con defer. |     |        |
+| Uso comentarios de línea y de bloque.                           |     |        |
+| Uso \n, \t, \", \\ y \u en textos.                              |     |        |
+| Leo el tipo de error, el mensaje y la línea en la consola.      |     |        |
 
 </details>
 
