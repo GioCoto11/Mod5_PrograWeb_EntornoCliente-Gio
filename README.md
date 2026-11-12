@@ -32,7 +32,7 @@ Programa CSTI14001 Desarrollo de páginas web · Facilitador: Giovanni Antonio C
 <h2>📁 Estructura del repositorio</h2>
 
 ```
-CSTI12004-Nombre-Apellido/
+Mod5_PrograWeb_EntornoCliente-Nombre/
 ├── README.md                ← este archivo: el único README del repositorio
 ├── .gitignore
 ├── luz-clara/               ← proyecto de clase del M3: prácticas guiadas
@@ -43,13 +43,13 @@ CSTI12004-Nombre-Apellido/
 │   ├── index.html · cursos.html · contacto.html
 │   ├── css/  recursos/
 │   └── js/                  ← un archivo .js por tema
-├── UNIDAD_1_javascript/     ← una carpeta por clase, cada una con capturas/
-│   └── CLASE_03_12-11-2026/
+├── UA1/                     ← una carpeta por sesión, cada una con capturas/
+│   └── S03/
 │       ├── capturas/        ← S03_guiada_luz-clara.png, S03_autonoma_casa-tomillo.png
 │       └── horario/         ← ejercicio suelto (solo cuando lo hay)
-├── UNIDAD_2_dom/            ← … y AC_1 (actividad de comprobación N.º 1)
-├── UNIDAD_3_accesibilidad/  ← … y AC_2
-└── UNIDAD_4_frameworks/     ← … y AC_3
+├── UA2/                     ← S10/ … S19/ y AC1/ (actividad de comprobación N.º 1)
+├── UA3/                     ← S22/ … S27/ y AC2/
+└── UA4/                     ← S28/ … S38/ y AC3/
 ```
 
 ---
@@ -74,64 +74,64 @@ CSTI12004-Nombre-Apellido/
             <td align="center">S01</td>
             <td>Bienvenida, encuadre y diagnóstico</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_01_10-11-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_01_10-11-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S01/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S01/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S02</td>
             <td>Entorno de trabajo, MVC y JavaScript</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_02_11-11-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_02_11-11-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S02/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S02/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S03</td>
             <td>Entorno en el laboratorio y mi primer script</td>
-            <td align="left">(Aprendí sobre códigos de escape y errores)</td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_03_12-11-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_03_12-11-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="left">(Instalamos y configuramos entorno, trabajamos con los primeros scrpts, secuencias de escape)</td>
+            <td align="center"><a href="UA1/S03/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S03/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S04</td>
             <td>Variables, constantes, tipos y operadores</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_04_13-11-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_04_13-11-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S04/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S04/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S05</td>
             <td>Números, textos, fechas y conversión de datos</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_05_16-11-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_05_16-11-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S05/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S05/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S06</td>
             <td>Decisiones y depuración en el navegador</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_06_18-11-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_06_18-11-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S06/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S06/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S07</td>
             <td>Repeticiones, vectores y matrices</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_07_23-11-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_07_23-11-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S07/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S07/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S08</td>
             <td>Funciones</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_08_24-11-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_08_24-11-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S08/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S08/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S09</td>
             <td>Objetos y clases + integración MVC · Introducción al DOM</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_09_25-11-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_1_javascript/CLASE_09_25-11-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S09/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S09/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
     </tbody>
 </table>
@@ -156,85 +156,85 @@ CSTI12004-Nombre-Apellido/
             <td align="center">S10</td>
             <td>El DOM y sus selectores</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_10_30-11-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_10_30-11-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S10/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S10/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S11</td>
             <td>Eventos</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_11_02-12-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_11_02-12-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S11/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S11/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S12</td>
             <td>Modificación de estilos con JavaScript</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_12_03-12-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_12_03-12-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S12/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S12/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S13</td>
             <td>Estados de controles: radio, checkbox y select</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_13_04-12-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_13_04-12-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S13/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S13/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S14</td>
             <td>JSON: sintaxis, estructura y validadores</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_14_07-12-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_14_07-12-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S14/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S14/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S15</td>
             <td>JSON y servicios web</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_15_08-12-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_15_08-12-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S15/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S15/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S16</td>
             <td>Geolocalización</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_16_09-12-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_16_09-12-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S16/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S16/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S17</td>
             <td>Almacenamiento local</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_17_10-12-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_17_10-12-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S17/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S17/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S18</td>
             <td>Web Workers y repaso para el proyecto</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_18_11-12-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_18_11-12-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S18/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S18/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S19</td>
             <td>Repaso de la UA2 · ¿Qué es accesibilidad?</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_19_01-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_2_dom/CLASE_19_01-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S19/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/S19/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S20</td>
             <td>Actividad de comprobación N.º 1</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_2_dom/AC_1/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_2_dom/AC_1/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/AC1/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/AC1/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S21</td>
             <td>AC N.º 1 (cierre) · 2.ª oportunidad o refuerzo</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_2_dom/AC_1/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_2_dom/AC_1/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/AC1/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA2/AC1/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
     </tbody>
 </table>
@@ -259,43 +259,43 @@ CSTI12004-Nombre-Apellido/
             <td align="center">S22</td>
             <td>Personas y web · Estructura de la página con WCAG</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_3_accesibilidad/CLASE_22_04-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_3_accesibilidad/CLASE_22_04-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA3/S22/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA3/S22/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S23</td>
             <td>Etiquetado, encabezados, contenido y menús accesibles</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_3_accesibilidad/CLASE_23_05-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_3_accesibilidad/CLASE_23_05-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA3/S23/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA3/S23/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S24</td>
             <td>Imágenes, tablas y formularios accesibles</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_3_accesibilidad/CLASE_24_08-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_3_accesibilidad/CLASE_24_08-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA3/S24/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA3/S24/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S25</td>
             <td>Carrusel, navegación, diseño e interacción accesibles</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_3_accesibilidad/CLASE_25_09-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_3_accesibilidad/CLASE_25_09-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA3/S25/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA3/S25/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S26</td>
             <td>Evaluación de accesibilidad (WCAG-EM, TAW, WAVE) · Instalación de TypeScript</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_3_accesibilidad/CLASE_26_10-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_3_accesibilidad/CLASE_26_10-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA3/S26/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA3/S26/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S27</td>
             <td>Actividad de comprobación N.º 2</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_3_accesibilidad/AC_2/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_3_accesibilidad/AC_2/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA3/AC2/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA3/AC2/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
     </tbody>
 </table>
@@ -320,78 +320,78 @@ CSTI12004-Nombre-Apellido/
             <td align="center">S28</td>
             <td>AC N.º 2 (cierre) · TypeScript: tipos</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_28_12-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_28_12-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S28/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S28/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S29</td>
             <td>TypeScript: funciones, objetos e interfaces</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_29_15-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_29_15-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S29/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S29/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S30</td>
             <td>TypeScript: clases</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_30_16-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_30_16-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S30/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S30/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S31</td>
             <td>TypeScript: namespaces, módulos y librerías externas</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_31_17-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_31_17-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S31/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S31/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S32</td>
             <td>Angular: entorno, componentes y enrutamiento</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_32_18-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_32_18-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S32/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S32/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S33</td>
             <td>Angular: data binding y pipes</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_33_19-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_33_19-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S33/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S33/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S34</td>
             <td>Angular: directivas, @Input, @Output y @ViewChild</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_34_22-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_34_22-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S34/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S34/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S35</td>
             <td>Angular: servicios, asincronía, RxJS y HTTP</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_35_23-02-2027/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_4_frameworks/CLASE_35_23-02-2027/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S35/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/S35/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S36</td>
             <td>Angular: formularios · Actividad de comprobación N.º 3 (inicio)</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_4_frameworks/AC_3/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_4_frameworks/AC_3/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/AC3/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/AC3/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S37</td>
             <td>Actividad de comprobación N.º 3 · 2.ª oportunidad (inicio)</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_4_frameworks/AC_3/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_4_frameworks/AC_3/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/AC3/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/AC3/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S38</td>
             <td>2.ª oportunidad AC N.º 3 · Cierre del módulo</td>
             <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UNIDAD_4_frameworks/AC_3/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UNIDAD_4_frameworks/AC_3/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/AC3/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA4/AC3/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
     </tbody>
 </table>
@@ -407,7 +407,7 @@ CSTI12004-Nombre-Apellido/
 <details>
 <summary>▼<b>Clase 01 · 10/11/2026 · Bienvenida, encuadre y diagnóstico</b></summary>
 
-Archivo: [S01_Cuadro_comparativo_Nombre_Apellido.docx](UNIDAD_1_javascript/CLASE_01_10-11-2026/S01_Cuadro_comparativo_Nombre_Apellido.docx) (tarea para la clase 2).
+Archivo: [S01_Cuadro_comparativo_Nombre_Apellido.docx](UA1/S01/S01_Cuadro_comparativo_Nombre_Apellido.docx) (tarea para la clase 2).
 
 **Conclusión**
 
@@ -418,7 +418,7 @@ La diferencia más importante que encontré entre C y JavaScript:
 <details>
 <summary>▼<b>Clase 02 · 11/11/2026 · ¿Sintaxis o semántica?</b></summary>
 
-Archivo: [pruebas/js/pruebas.js](UNIDAD_1_javascript/CLASE_02_11-11-2026/pruebas/js/pruebas.js)
+Archivo: [pruebas/js/pruebas.js](UA1/S02/pruebas/js/pruebas.js)
 
 | Línea | Qué mostró la consola | Tipo | Corrección |
 | ----- | --------------------- | ---- | ---------- |
@@ -443,7 +443,7 @@ Archivo: [pruebas/js/pruebas.js](UNIDAD_1_javascript/CLASE_02_11-11-2026/pruebas
 <details>
 <summary>▼<b>Clase 03 · 12/11/2026 · Cacería de errores</b></summary>
 
-Archivos: [horario/js/horarios.js](UNIDAD_1_javascript/CLASE_03_12-11-2026/horario/js/horarios.js) · [luz-clara/js/ficha.js](luz-clara/js/ficha.js) · [casa-tomillo/js/talleres.js](casa-tomillo/js/talleres.js)
+Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara/js/ficha.js](luz-clara/js/ficha.js) · [casa-tomillo/js/talleres.js](casa-tomillo/js/talleres.js)
 
 **Cacería de errores**
 
@@ -500,9 +500,9 @@ Archivos: [horario/js/horarios.js](UNIDAD_1_javascript/CLASE_03_12-11-2026/horar
         <tr><th>AC</th><th>Proyecto</th><th>Carpeta</th><th>Resultado</th></tr>
     </thead>
     <tbody>
-        <tr><td>1</td><td>Manipulación del DOM e interactividad web (UA1 + UA2)</td><td><a href="UNIDAD_2_dom/AC_1/">UNIDAD_2_dom/AC_1</a></td><td>⬜</td></tr>
-        <tr><td>2</td><td>Accesibilidad web</td><td><a href="UNIDAD_3_accesibilidad/AC_2/">UNIDAD_3_accesibilidad/AC_2</a></td><td>⬜</td></tr>
-        <tr><td>3</td><td>Página web con framework frontend</td><td><a href="UNIDAD_4_frameworks/AC_3/">UNIDAD_4_frameworks/AC_3</a></td><td>⬜</td></tr>
+        <tr><td>1</td><td>Manipulación del DOM e interactividad web (UA1 + UA2)</td><td><a href="UA2/AC1/">UA2/AC1</a></td><td>⬜</td></tr>
+        <tr><td>2</td><td>Accesibilidad web</td><td><a href="UA3/AC2/">UA3/AC2</a></td><td>⬜</td></tr>
+        <tr><td>3</td><td>Página web con framework frontend</td><td><a href="UA4/AC3/">UA4/AC3</a></td><td>⬜</td></tr>
     </tbody>
 </table>
 
