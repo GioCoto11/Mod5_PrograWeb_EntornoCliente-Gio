@@ -87,7 +87,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S03</td>
             <td>Entorno en el laboratorio y mi primer script</td>
-            <td align="left">(Instalamos y configuramos entorno, trabajamos con los primeros scrpts, secuencias de escape)</td>
+            <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA1/S03/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S03/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
@@ -402,7 +402,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
 
 <h2>📝 Respuestas de las prácticas</h2>
 
-<p>Las tablas que pide cada práctica se completan aquí, en un bloque por clase. Para una clase nueva, copie un bloque completo (de &lt;details&gt; a &lt;/details&gt;) y cambie el título.</p>
+<p>Las tablas que pide cada práctica se completan aquí, en un bloque por clase. En cada sesión se comparte el bloque de esa clase: péguelo donde indica el aviso 📌, al final de esta sección.</p>
 
 <details>
 <summary>▼<b>Clase 01 · 10/11/2026 · Bienvenida, encuadre y diagnóstico</b></summary>
@@ -475,6 +475,51 @@ Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara
 | Leo el tipo de error, el mensaje y la línea en la consola.      |     |        |
 
 </details>
+
+<!--
+CÓMO USAR ESTE BLOQUE (Clase 04)
+1. Abra el README.md de la carpeta principal del repositorio
+   (Mod5_PrograWeb_EntornoCliente-Nombre/README.md). Es el único README.
+2. Busque la sección «📝 Respuestas de las prácticas».
+3. Busque el aviso «📌 AQUÍ SE PEGAN LOS BLOQUES NUEVOS».
+   Si no lo tiene, ubíquese debajo del último </details> de esa sección,
+   antes de la línea --- que la cierra.
+4. Pegue ARRIBA de ese aviso todo lo que sigue a este comentario:
+   desde <details> hasta </details>. El aviso queda debajo, listo para la próxima clase.
+5. Deje una línea en blanco antes y después del bloque.
+6. Revise con Ctrl+Shift+V que las tablas se vean bien y guarde.
+-->
+
+<details>
+<summary>▼<b>Clase 04 · 13/11/2026 · Variables, tipos y operadores</b></summary>
+
+**Predicciones**
+
+| #   | Expresión        | Mi predicción | Lo que mostró la consola |
+| --- | ---------------- | ------------- | ------------------------ |
+| 1   | `typeof "95000"` |               |                          |
+| 2   | `typeof 95000`   |               |                          |
+| 3   | `typeof 9.5`     |               |                          |
+| 4   | `typeof "true"`  |               |                          |
+| 5   | `"5" + 2`        |               |                          |
+| 6   | `"5" - 2`        |               |                          |
+| 7   | `5 === "5"`      |               |                          |
+| 8   | `10 % 3`         |               |                          |
+| 9   | `true && false`  |               |                          |
+| 10  | `!(3 > 2)`       |               |                          |
+
+**Autoevaluación**
+
+| Indicador                                                 | Sí  | Aún no |
+| --------------------------------------------------------- | --- | ------ |
+| Uso const si el valor no cambia y let si cambia.          |     |        |
+| Reconozco cadenas, números, booleanos y null.             |     |        |
+| Calculo con operadores en lugar de escribir el resultado. |     |        |
+| Sé que prompt devuelve texto y lo convierto con Number.   |     |        |
+
+</details>
+
+> 📌 **AQUÍ SE PEGAN LOS BLOQUES NUEVOS.** Pegue el bloque de cada clase (desde `<details>` hasta `</details>`) justo **arriba** de este aviso. El aviso queda siempre al final de la sección.
 
 ---
 
