@@ -420,14 +420,14 @@ La diferencia más importante que encontré entre C y JavaScript:
 
 Archivo: [pruebas/js/pruebas.js](UA1/S02/pruebas/js/pruebas.js)
 
-| Línea | Qué mostró la consola | Tipo | Corrección |
-| ----- | --------------------- | ---- | ---------- |
-| 2     |                       |      |            |
-| 3     |                       |      |            |
-| 4     |                       |      |            |
-| 5     |                       |      |            |
-| 6     |                       |      |            |
-| 7     |                       |      |            |
+| Línea | Qué mostró la consola                        | Tipo      | Corrección                           |
+| ----- | -------------------------------------------- | --------- | ------------------------------------ |
+| 2     | Promedio: 80                                 | correta   | ---                                  |
+| 3     | SyntaxisError: Unespected token ')'          | Sintaxis  | Quitar paréntesis sobrante           |
+| 4     | Total: 1500900                               | Semantica | "total: " +(1500+900)                |
+| 5     | Bienvenida al INA                            | Correcta  | ---                                  |
+| 6     | Perímetro de 4 x 3: 10                       | Semántica | (4 + 3)\* 2                          |
+| 7     | SyntaxisError: missing ) after argument list | Sintaxis  | \"INA\" o comillas simples por fuera |
 
 **Autoevaluación**
 
