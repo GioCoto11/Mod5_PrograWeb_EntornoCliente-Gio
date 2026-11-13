@@ -94,7 +94,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S04</td>
             <td>Variables, constantes, tipos y operadores</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">(Constantes y variables - tipos de datos y comparaciones)</td>
             <td align="center"><a href="UA1/S04/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S04/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
@@ -497,7 +497,7 @@ CÓMO USAR ESTE BLOQUE (Clase 04)
 
 | #   | Expresión        | Mi predicción | Lo que mostró la consola |
 | --- | ---------------- | ------------- | ------------------------ |
-| 1   | `typeof "95000"` |               |                          |
+| 1   | `typeof "95000"` | string        | string                   |
 | 2   | `typeof 95000`   |               |                          |
 | 3   | `typeof 9.5`     |               |                          |
 | 4   | `typeof "true"`  |               |                          |
