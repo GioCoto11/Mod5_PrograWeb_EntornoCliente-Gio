@@ -115,7 +115,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S07</td>
             <td>Repeticiones, vectores y matrices</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">(Ciclos: for, while, do while. Vectores y matrices)</td>
             <td align="center"><a href="UA1/S07/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S07/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
