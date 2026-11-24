@@ -628,14 +628,14 @@ CÓMO USAR ESTE BLOQUE (Clase 07)
 
 **¿Cuántas vueltas?**
 
-| #   | Ciclo                                   | Mi predicción | Comprobado |
-| --- | --------------------------------------- | ------------- | ---------- |
-| 1   | `for (let i = 0; i < 5; i++)`           |               |            |
-| 2   | `for (let i = 1; i <= 5; i++)`          |               |            |
-| 3   | `for (let i = 0; i <= 5; i++)`          |               |            |
-| 4   | `let n = 10; while (n > 0) { n -= 3; }` |               |            |
-| 5   | `let n = 0; do { n++; } while (n < 0);` |               |            |
-| 6   | `for (let i = 10; i > 0; i -= 2)`       |               |            |
+| #   | Ciclo                                   | Mi predicción | Comprobado      |
+| --- | --------------------------------------- | ------------- | --------------- |
+| 1   | `for (let i = 0; i < 5; i++)`           | 5             | 0...4           |
+| 2   | `for (let i = 1; i <= 5; i++)`          | 5             | 1...5           |
+| 3   | `for (let i = 0; i <= 5; i++)`          | 6             | 0 A 5           |
+| 4   | `let n = 10; while (n > 0) { n -= 3; }` | 4             | 10, 7, 4 Y 1    |
+| 5   | `let n = 0; do { n++; } while (n < 0);` | 1             | do while        |
+| 6   | `for (let i = 10; i > 0; i -= 2)`       | 5             | 10, 8, 6, 4 y 2 |
 
 **Autoevaluación**
 
