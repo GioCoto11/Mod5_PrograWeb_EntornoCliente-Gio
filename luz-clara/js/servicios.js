@@ -13,4 +13,4 @@ const nombres = tarifas.map((t) => t.servicio);
 console.log(`Servicios: ${nombres.join(", ")}`);
 
 const economicos = tarifas.filter((t) => t.monto < 50000);
-console.log(`Menos de ¢50 000: ${economicos.length}`);
+console.log(`Económicos/Menos de ¢50 000: ${economicos.length}`);
