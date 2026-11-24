@@ -5,4 +5,4 @@ console.log("Sesión:\tIndividual"); //alinea el dato
 console.log('Tipo:\t"Retrato"'); //muestra las comillas
 console.log("Precio:\t\u20A145 000"); //u20A1 = ¢
 console.log("Tiempo:\t1 hora \nLugar:\tSan José"); //\n salto de linea
-console.warn("¡Qudan pocas fechas este mes!"); //aviso amarillo
+console.warn("¡Quedan pocas fechas este mes!"); //aviso amarillo

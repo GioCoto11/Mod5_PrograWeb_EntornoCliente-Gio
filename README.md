@@ -122,7 +122,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S08</td>
             <td>Funciones</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">(Trabajamos Declaración, expresión y flecha; parámetros, return y validación; variables globales y locales; callbacks con forEach, map y filter; closure )</td>
             <td align="center"><a href="UA1/S08/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S08/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
