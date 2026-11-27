@@ -1,6 +1,6 @@
 //reservas.js - ARRANQUE: une el modelo la vista y el controlador
-const modelo = new Reservas(); //instancia del modelo. Parentesis vacion porque el contrctor no recibe datos.
-const vista = new VsitaReservas();
+const modelo = new Reservas(); //instancia del modelo. Parentesis vacio porque el contrctor no recibe datos.
+const vista = new VistaReservas();
 const reservas = new ControladorReservas(modelo, vista); //instancia del controlador. Recibe los dos objetos ya creados
 
 reservas.reservar("Ana Rodriguez", "Familiar", 75000); //metodo del controlador. es la accion del usuario.

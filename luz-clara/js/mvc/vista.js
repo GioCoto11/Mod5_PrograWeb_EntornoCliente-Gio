@@ -1,5 +1,5 @@
-//vista.js - VISTA: Muestra los datos (por ahora en consola)
-class VsitaReservas {
+//vista.js - VISTA: Muestra los datos ( ahora en la pagina contacto.html)
+class VistaReservas {
   //recibe la ista de reservas del modelo y la escribe en el <ol>
   mostrar(lista) {
     //el <ol> id="lista-reservas" que se agregó en contacto.html
